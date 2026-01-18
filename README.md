@@ -1,6 +1,3 @@
-# rOS-Versions
-rOS Stable versions repository with all the ROM's files you can flash.
-
 # What is rOS and it's meaning?
 rOS, or, longer, randomOS, is a mobile OS based off AOSP (read: Android Open Source Project) or LineageOS.
 
