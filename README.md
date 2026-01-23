@@ -12,7 +12,7 @@ For example, there is a difference between features and booting.
 ```I AM NOT RESPONSIBLE FOR ANY BRICKED OR BOOTLOOPED DEVICE. YOUR WARRANTY IS VOIDED. IF YOU WILL BLAME ME FOR BRICKING, BOOTLOOPING OR ANY ERROR YOUR DEVICE GOT INTO, I WILL LAUGH. I AM NOT FORCING YOU TO USE, MAINLY DRIVE OR FLASH THIS OS.```
 
 BACK UP  YOUR DATA INTO A CLOUD.
-1. Unlock the bootloader (Tap 7 times on "Build Number", go to Developer Options and there press "OEM Unlock", but you should log out of any accounts to prevent EPF... EFP... idk) and boot into Download Mode, Fastboot or whatever using a specific buttons combination.
+1. Unlock the bootloader (Tap 7 times on "Build Number", go to Developer Options and there press "OEM Unlock", but you should log out from your Google account to prevent FRP (Factory Reset Protection) and boot into Download Mode, Fastboot or whatever using a specific buttons combination.
 2. Get a TWRP SPECIALLY FOR YOUR DEVICE. Flashing TWRP for another device or even the same device with a mismatched model code (like mistaking SM-N960F with another Note 9 version build) can or may result in a bootloop, a brick etc.
 3. Get rOS for your device. Flashing rOS for another device or even the same device with a mismatched model code (like mistaking SM-N960F with another Note 9 version build) can or may result in a bootloop, a brick etc.
 4. Flash TWRP using Fastboot, Odin or whatever thing your phone has.
